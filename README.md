@@ -20,7 +20,7 @@
 <h2 align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━┓
 <br>
-┃ <img width=60/>Astro Color Table<img width=60/> ┃
+Astro Color Table
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━┛
 </h2>
@@ -107,13 +107,15 @@
 
 ---
 
+<p align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 <br>
-┃ <img width=63/>Dark Cosmos<img width=63/> ┃
+Dark Cosmos
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━┛
-
-Dark Cosmos colors reflect the hues of the pleasing Astro space.
+</p>
+  
+<p align="center">Dark Cosmos colors reflect the hues of the pleasing Astro space.</p>
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
@@ -124,13 +126,15 @@ Dark Cosmos colors reflect the hues of the pleasing Astro space.
 
 <br>
 
+<p align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 <br>
-┃ <img width=73/>Light Stars<img width=73/> ┃
+Light Stars
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+</p>
 
-Light colors of Astro. Represent the cosmos' stars.
+<p align="center">Light colors of Astro. Represent the cosmos' stars.</p>
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
@@ -140,13 +144,15 @@ Light colors of Astro. Represent the cosmos' stars.
 
 <br>
 
+<p align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 <br>
-┃ <img width=81/>Midnight<img width=81/> ┃
+Midnight
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+</p>
 
-The fascinating main accent color of the pallete and it's various shades. Dark, bluish midnight cosmos.
+<p align="center">The fascinating main accent color of the pallete and it's various shades. Dark, bluish midnight cosmos.</p>
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
@@ -158,13 +164,15 @@ The fascinating main accent color of the pallete and it's various shades. Dark, 
 
 <br>
 
+<p align="center">
 ┏━━━━━━━━━━━━━━━━━━━━━━━━┓
 <br>
-┃ <img width=50/>Space Adventure<img width=50/> ┃
+Space Adventure
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━┛
+</p>
 
-Space Adventure colors are taken from the vivid, eye-catching planets of the rich, vibrant Astro universe.
+<p align="center">Space Adventure colors are taken from the vivid, eye-catching planets of the rich, vibrant Astro universe.</p>
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
