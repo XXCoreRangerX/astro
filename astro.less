@@ -1,0 +1,282 @@
+/*
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+title      Astro                                   +
+project    Astro                                   +
+version    1.0.0                                   +
+repository https://github.com/xxcorerangerx/astro  +
+author     XXCoreRangerX                           +
+email      mail@xxcore.pl                          +
+copyright  Copyright (C) 2021                      +
+++++++++++++++++++++++++++++++++++++++++++++++++++++
+[References]
+KSS
+  (http://warpspire.com/kss)
+kss-node
+  (https://github.com/kss-node/kss-node)
+*/
+
+// A clean, elegant color palette, representing the minimallistic idea of the universe.
+// Designed specifically to focus. Consists of twenty-three, carefully colors.
+
+
+// -------------------------------------------------------------------------------------
+
+// Dark Cosmos
+
+// Base component color of "Dark Cosmos".
+//
+// Used for texts, backgrounds, carets and structuring characters like brackets.
+//
+// Markup:
+// <div style="background-color:#1B1C1E; width=60; height=60"></div>
+//
+@astro0: #1B1C1E;
+
+// Darker shade of the base component color.
+//
+// Used as a darker background color for UI elements like status bars and tabs,
+// or semi-light background depending on the UI theme shading design,
+// may be used for texts, carets and structuring characters like brackets with less important elements.
+//
+// Markup:
+// <div style="background-color:#17181A; width=60; height=60"></div>
+//
+@astro1: #17181A;
+
+// Lighter shade color of the base component color.
+//
+// Used as line highlighting in the editor,
+// selection and hightlight color in UI,
+// background depending on the theme shading design.
+//
+// Markup:
+// <div style="background-color:#222326; width=60; height=60"></div>
+//
+@astro2: #222326;
+
+// Lighter shade color of the base component color.
+//
+// Used for comments, invisibles, indent and wrap guide marker
+// or pseudeoclass color for disabled elements in UI.
+//
+// Markup:
+// <div style="background-color:#3A3C42; width=60; height=60"></div>
+//
+@astro3: #3A3C42;
+
+// -------------------------------------------------------------------------------------
+
+// Light Stars
+
+// Base component color of "Light Stars".
+//
+// Used for texts, backgrounds, carets and structuring characters like brackets.
+//
+// Markup:
+// <div style="background-color:#ECEFF4; width=60; height=60"></div>
+//
+@astro4: #ECEFF4;
+
+// Darker shade of the base component color.
+//
+// Used as a darker background color for UI elements like status bars and tabs,
+// or semi-light background depending on the UI theme shading design,
+// may be used for texts, carets and structuring characters like brackets with less important elements.
+//
+// Markup:
+// <div style="background-color:#D8DEE9; width=60; height=60"></div>
+//
+@astro5: #D8DEE9;
+
+// Darker shade color of the base component color.
+//
+// Used as line highlighting in the editor,
+// selection and hightlight color in UI,
+// background depending on the theme shading design.
+//
+// Markup:
+// <div style="background-color:#E5E9F0; width=60; height=60"></div>
+//
+@astro6: #E5E9F0;
+
+// -------------------------------------------------------------------------------------
+
+// Midnight
+
+// Bluish core color.
+//
+// Represents the accent color of the color palette.
+// Can be used as main color for primary UI elements.
+// Can also be used along with main Dark Cosmos color
+// for a beautiful gradient
+//
+// Most commonly used for
+//   - classes/types
+//   - attributes
+//   - constants
+//
+// Markup:
+// <div style="background-color:#28293D; width=60; height=60"></div>
+//
+@astro7: #28293D;
+
+// Bluish core color.
+//
+// A darker version of the main accent color.
+//
+// Most commonly used for
+//   - documentation/annotation tags
+//   - attribute values
+//   - Markup quotes
+//   - Markup link URLs
+//
+// Markup:
+// <div style="background-color:#242436; width=60; height=60"></div>
+//
+@astro8: #242436;
+
+// Bluish core color.
+//
+// An even darker version of the main accent color.
+//
+// Most commonly used for
+//   - language-specific syntactic/reserved keywords
+//   - operators
+//   - tags
+//   - punctuations like colon/semicolon, comma and braces
+//
+// Can optionally be used for units and language-specific reserved special support characters (px/em, $, %).
+//
+// Markup:
+// <div style="background-color:#202030; width=60; height=60"></div>
+//
+@astro9: #202030;
+
+// Bluish core color.
+//
+// Yet another darker version of the main accent color.
+//
+// Most commonly used for
+//   - Markup doctypes
+//   - import/include/require statements
+//   - pre-processor statements
+//   - at-rules (@)
+//
+// Markup:
+// <div style="background-color:#1C1C2A; width=60; height=60"></div>
+//
+@astro10: #1C1C2A;
+
+// -------------------------------------------------------------------------------------
+
+// Space Adventure
+
+// Colorful component color.
+//
+// Most commonly used for errors, git/diff deletion and linter marker.
+//
+// Markup:
+// <div style="background-color:#E12A38; width=60; height=60"></div>
+//
+@astro11: #E12A38;
+
+// Colorful component color.
+//
+// Usually used for illegals.
+//
+// Markup:
+// <div style="background-color:#CB1A4A; width=60; height=60"></div>
+//
+@astro12: #CB1A4A;
+
+// Colorful component color.
+//
+// Most commonly used for annotations and regular expressions.
+//
+// Markup:
+// <div style="background-color:#E39417; width=60; height=60"></div>
+//
+@astro13: #E39417;
+
+// Colorful component color.
+//
+// Most commonly used for escape characters, warnings, git/diff renamings and Markup entities.
+//
+// Markup:
+// <div style="background-color:#EDC707; width=60; height=60"></div>
+//
+@astro14: #EDC707;
+
+// Colorful component color.
+//
+// Most commonly used for methods/functions, git/diff additions and success visualizations.
+//
+// Markup:
+// <div style="background-color:#318C69; width=60; height=60"></div>
+//
+@astro15: #318C69;
+
+// Colorful component color.
+//
+// Most commonly used for methods/functions, git/diff additions and success visualizations.
+//
+// Markup:
+// <div style="background-color:#008060; width=60; height=60"></div>
+//
+@astro16: #008060;
+
+// Colorful component color.
+//
+// Most commonly used for numbers.
+//
+// Markup:
+// <div style="background-color:#247DE3; width=60; height=60"></div>
+//
+@astro17: #247DE3;
+
+// Colorful component color.
+//
+// Most commonly used as a second style for numbers.
+//
+// Markup:
+// <div style="background-color:#2464E0; width=60; height=60"></div>
+//a
+@astro18: #2464E0;
+
+// Colorful component color.
+//
+// Currently unassigned
+//
+// Markup:
+// <div style="background-color:#24A0E3; width=60; height=60"></div>
+//a
+@astro19: #24A0E3;
+
+// Colorful component color.
+//
+// Currently unassigned
+//
+// Markup:
+// <div style="background-color:#1b7fb5; width=60; height=60"></div>
+//a
+@astro20: #1b7fb5;
+
+// Colorful component color.
+//
+// Currently unassigned
+//
+// Markup:
+// <div style="background-color:#7724e3; width=60; height=60"></div>
+//a
+@astro21: #7724e3;
+
+// Colorful component color.
+//
+// Currently unassigned
+//
+// Markup:
+// <div style="background-color:#6A17D1; width=60; height=60"></div>
+//a
+@astro22: #6A17D1;
+
+// -------------------------------------------------------------------------------------
