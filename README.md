@@ -29,12 +29,12 @@ Astro Color Table
 | Name        | Color |  Hex       | <img width=150/>RGB<img width=150/> | Usage |
 | :---------: | :---: | :--------: | :------------------: | ----- |
 | **astro0**  | ![#1B1C1E](https://user-images.githubusercontent.com/61242573/122408715-e0d9cb80-cf82-11eb-9292-beb8bff92b51.png) |`#1B1C1E` | `27, 28, 30`    | texts, backgrounds, carets and structuring characters like brackets |
-| **astro1**  | ![#17181A](https://user-images.githubusercontent.com/61242573/122408875-fcdd6d00-cf82-11eb-8a02-6cb7bf33aca5.png) |`#17181A` | `23, 24, 26`    | darker background color for UI elements like status bars or tabs |
-| **astro2**  | ![#222326](https://user-images.githubusercontent.com/61242573/122409133-301ffc00-cf83-11eb-8b27-0f3ca0670f4d.png) |`#222326` | `34, 35, 38`    | line highlighting in the editor, selection and hightlight color in UI |
+| **astro1**  | ![#17181A](https://user-images.githubusercontent.com/61242573/122408875-fcdd6d00-cf82-11eb-8a02-6cb7bf33aca5.png) |`#17181A` | `23, 24, 26`    | darker background color for UI elements like status bars and tabs, or semi-light background depending on the UI theme shading design, may be used for texts, carets and structuring characters like brackets with less important elements |
+| **astro2**  | ![#222326](https://user-images.githubusercontent.com/61242573/122409133-301ffc00-cf83-11eb-8b27-0f3ca0670f4d.png) |`#222326` | `34, 35, 38`    | line highlighting in the editor, selection and hightlight color in UI, background depending on the theme shading design |
 | **astro3**  | ![#3A3C42](https://user-images.githubusercontent.com/61242573/122409315-56459c00-cf83-11eb-9d69-501b5aff2b51.png) |`#3A3C42` | `58, 60, 66`    | comments, invisibles, indent and wrap guide marker or pseudeoclass color for disabled elements in UI |
-| **astro4**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) |`#D8DEE9` | `216, 222, 233` | texts, carets and structuring characters like brackets or semi-light background depending on the UI theme shading design |
-| **astro5**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) |`#E5E9F0` | `229, 233, 240` | lighter background color for UI elements like status bars or semi-light background depending on the UI theme shading design |
-| **astro6**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) |`#ECEFF4` | `236, 239, 244` | main light background, selection and hightlight color. |
+| **astro4**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) |`#ECEFF4` | `236, 239, 244` | texts, backgrounds, carets and structuring characters like brackets |
+| **astro5**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) |`#D8DEE9` | `216, 222, 233` | lighter background color for UI elements like status bars and tabs, or semi-light background depending on the UI theme shading design, may be used for texts, carets and structuring characters like brackets with less important elements |
+| **astro6**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) |`#E5E9F0` | `229, 233, 240` | line highlighting in the editor, selection and hightlight color in UI, background depending on the theme shading design |
 | **astro7**  | ![#28293D](https://user-images.githubusercontent.com/61242573/122409691-9f95eb80-cf83-11eb-8d3b-dc345d4fa689.png) |`#28293D` | `40, 41, 61`    | primary UI elements, classes/types, attributes and constants |
 | **astro8**  | ![#242436](https://user-images.githubusercontent.com/61242573/122409749-ae7c9e00-cf83-11eb-9e94-87a9df21d0fa.png) |`#242436` | `36, 36, 54`    | documentation/annotation tags, attribute values, Markup quotes and Markup link URLs |
 | **astro9**  | ![#202030](https://user-images.githubusercontent.com/61242573/122409785-b50b1580-cf83-11eb-87ef-910003a7947b.png) |`#202030` | `32, 32, 48`    | language-specific syntactic/reserved keywords, operators, tags, punctuations like colon/semicolon, comma and braces |
@@ -73,9 +73,9 @@ Astro Color Table
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
-| **astro4**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) | `#D8DEE9` | `216, 222, 233` |
-| **astro5**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) | `#E5E9F0` | `229, 233, 240` |
-| **astro6**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) | `#ECEFF4` | `236, 239, 244` |
+| **astro4**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) |`#ECEFF4` | `236, 239, 244` |
+| **astro5**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) |`#D8DEE9` | `216, 222, 233` |
+| **astro6**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) |`#E5E9F0` | `229, 233, 240` |
 
 </td><td>
   
@@ -138,9 +138,9 @@ Light Stars
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
-| **astro4**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) | `#D8DEE9` | `216, 222, 233` |
-| **astro5**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) | `#E5E9F0` | `229, 233, 240` |
-| **astro6**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) | `#ECEFF4` | `236, 239, 244` |
+| **astro4**  | ![#ECEFF4](https://user-images.githubusercontent.com/61242573/122409636-93119300-cf83-11eb-9f34-cc4e821e643c.png) |`#ECEFF4` | `236, 239, 244` |
+| **astro5**  | ![#D8DEE9](https://user-images.githubusercontent.com/61242573/122409406-665d7b80-cf83-11eb-9129-78ea0a296b82.png) |`#D8DEE9` | `216, 222, 233` |
+| **astro6**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) |`#E5E9F0` | `229, 233, 240` |
 
 <br>
 
