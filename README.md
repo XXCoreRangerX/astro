@@ -9,9 +9,9 @@
 <h4 align="center"></h4>
 
 <p align="center">
-<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/XXCoreRangerX/astro?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
+<img alt="GitHub tag (latest by date)" src="https://img.shields.io/github/v/tag/XXCoreRangerX/astro?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 
-<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/xxcorerangerx/astro/total?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
+<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/xxcorerangerx/astro?color=%2328293D&logo=github&logoColor=%23ECEFF4&style=flat-square&colorA=1B1C1E">
 </p>
 
 ---
