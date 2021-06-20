@@ -4,7 +4,7 @@
 
 <h1 align="center">Astro color pallete</h1>
 
-<h4 align="center">A clean, elegant color palette, representing the minimallistic idea of the universe.</h4>
+<h4 align="center">A clean, elegant color palette, representing the minimalistic idea of the universe.</h4>
 <h4 align="center">The theme consists of 23, carefully selected colors.</h4>
 
 <p align="center">
@@ -58,10 +58,10 @@ Astro Color Table
 <table>
 <tr><th>Dark Cosmos</th><th>Light Stars</th><th>Midnight</th><th>Space Adventure</th></tr>
 <tr><td>
-  
+
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
-| **astro0**  | ![#1B1C1E](https://user-images.githubusercontent.com/61242573/122408715-e0d9cb80-cf82-11eb-9292-beb8bff92b51.png) |`#1B1C1E` | `27, 28, 30` | 
+| **astro0**  | ![#1B1C1E](https://user-images.githubusercontent.com/61242573/122408715-e0d9cb80-cf82-11eb-9292-beb8bff92b51.png) |`#1B1C1E` | `27, 28, 30` |
 | **astro1**  | ![#17181A](https://user-images.githubusercontent.com/61242573/122408875-fcdd6d00-cf82-11eb-8a02-6cb7bf33aca5.png) |`#17181A` | `23, 24, 26` |
 | **astro2**  | ![#222326](https://user-images.githubusercontent.com/61242573/122409133-301ffc00-cf83-11eb-8b27-0f3ca0670f4d.png) |`#222326` | `34, 35, 38` |
 | **astro3**  | ![#3A3C42](https://user-images.githubusercontent.com/61242573/122409315-56459c00-cf83-11eb-9d69-501b5aff2b51.png) |`#3A3C42` | `58, 60, 66` |
@@ -75,7 +75,7 @@ Astro Color Table
 | **astro6**  | ![#E5E9F0](https://user-images.githubusercontent.com/61242573/122409531-7f662c80-cf83-11eb-9505-a9ef0555b02f.png) |`#E5E9F0` | `229, 233, 240` |
 
 </td><td>
-  
+
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
 | **astro7**  | ![#28293D](https://user-images.githubusercontent.com/61242573/122409691-9f95eb80-cf83-11eb-8d3b-dc345d4fa689.png) | `#28293D` | `40, 41, 61` |
@@ -84,7 +84,7 @@ Astro Color Table
 | **astro10** | ![#1C1C2A](https://user-images.githubusercontent.com/61242573/122409818-bb998d00-cf83-11eb-9155-3c8ccd0c2e5f.png) | `#1C1C2A` | `28, 28, 42` |
 
 </td><td>
-  
+
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
 | **astro11** | ![#E12A38](https://user-images.githubusercontent.com/61242573/122409858-c48a5e80-cf83-11eb-9f49-64b2d053aad4.png) | `#E12A38` | `225, 42, 56`  |
@@ -111,12 +111,12 @@ Dark Cosmos
 <br>
 ┗━━━━━━━━━━━━━━━━━━━━━━━━┛
 </p>
-  
+
 <p align="center">Dark Cosmos colors reflect the hues of the pleasing Astro space.</p>
 
 | Name        | Color |  Hex       | RGB |
 | :---------: | :---: | :--------: | :------------------: |
-| **astro0**  | ![#1B1C1E](https://user-images.githubusercontent.com/61242573/122408715-e0d9cb80-cf82-11eb-9292-beb8bff92b51.png) |`#1B1C1E` | `27, 28, 30` | 
+| **astro0**  | ![#1B1C1E](https://user-images.githubusercontent.com/61242573/122408715-e0d9cb80-cf82-11eb-9292-beb8bff92b51.png) |`#1B1C1E` | `27, 28, 30` |
 | **astro1**  | ![#17181A](https://user-images.githubusercontent.com/61242573/122408875-fcdd6d00-cf82-11eb-8a02-6cb7bf33aca5.png) |`#17181A` | `23, 24, 26` |
 | **astro2**  | ![#222326](https://user-images.githubusercontent.com/61242573/122409133-301ffc00-cf83-11eb-8b27-0f3ca0670f4d.png) |`#222326` | `34, 35, 38` |
 | **astro3**  | ![#3A3C42](https://user-images.githubusercontent.com/61242573/122409315-56459c00-cf83-11eb-9d69-501b5aff2b51.png) |`#3A3C42` | `58, 60, 66` |
