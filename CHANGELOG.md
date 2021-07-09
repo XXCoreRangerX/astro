@@ -1,3 +1,6 @@
+## v1.1.2
+* Added astro.css.
+
 ## v1.0.2
 * Fixed typos.
 
